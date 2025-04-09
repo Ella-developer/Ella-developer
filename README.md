@@ -47,23 +47,27 @@ I love **clean code, reproducible pipelines**, and collaborating on meaningful A
 <h3 align="center">📈 GitHub Stats</h3>
 
 <p align="center">
-  ⭐ <strong>Total Stars Earned:</strong> 68 &nbsp;&nbsp;|&nbsp;&nbsp;
-  🔁 <strong>Commits:</strong> 2.3k &nbsp;&nbsp;|&nbsp;&nbsp;
-  🔧 <strong>Pull Requests:</strong> 468 &nbsp;&nbsp;|&nbsp;&nbsp;
-  🐛 <strong>Issues:</strong> 8 &nbsp;&nbsp;|&nbsp;&nbsp;
-  🔄 <strong>Contributed (last year):</strong> 20 &nbsp;&nbsp;|&nbsp;&nbsp;
-  🏆 <strong>Top 32.7%</strong>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ella-developer&show_icons=true&count_private=true&theme=radical" />
 </p>
-
-<h3 align="center">🧪 Most Used Languages</h3>
 
 <p align="center">
-  <strong>TypeScript:</strong> 77.78% &nbsp;&nbsp;|&nbsp;&nbsp;
-  <strong>JavaScript:</strong> 12.45% &nbsp;&nbsp;|&nbsp;&nbsp;
-  <strong>CSS:</strong> 8.34% &nbsp;&nbsp;|&nbsp;&nbsp;
-  <strong>HTML:</strong> 0.91% &nbsp;&nbsp;|&nbsp;&nbsp;
-  <strong>Shell:</strong> 0.51%
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ella-developer&layout=compact&theme=radical" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ella-developer&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ella-developer&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ella-developer&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ella-developer&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+---
 
 ## 🛠 Technical Expertise (Graphical View)
 
@@ -115,22 +119,6 @@ I love **clean code, reproducible pipelines**, and collaborating on meaningful A
 
 ---
 
-## 📈 Visual GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ella-developer&show_icons=true&theme=radical" alt="Ella's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ella-developer&layout=compact&theme=radical" alt="Top Languages Used" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ella-developer&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophy" />
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 ### 🧠 Medical AI
@@ -142,8 +130,6 @@ I love **clean code, reproducible pipelines**, and collaborating on meaningful A
 
 - **[Pneumonia Detection via Transfer Learning](https://github.com/Ella-developer/)**  
   Chest X-ray image classification using CNN & TensorFlow.
-
----
 
 ### 🛠 Predictive Modeling
 - **[Ticket Cancellation Prediction (XGBoost)](https://github.com/Ella-developer/)**  
@@ -157,8 +143,6 @@ I love **clean code, reproducible pipelines**, and collaborating on meaningful A
 
 - **[Diamond Price Prediction](https://github.com/Ella-developer/)**  
   Regression models to estimate prices based on features.
-
----
 
 ### 🕶️ Computer Vision & Detection
 - **[Traffic Sign Detection (YOLOv8)](https://github.com/Ella-developer/)**  
@@ -177,4 +161,6 @@ Feel free to reach out via:
 
 ---
 
-⭐ If you find my projects helpful or inspiring, feel free to **star** them or reach out for a chat!
+<p align="center">
+  <em>"If you find my projects helpful or inspiring, feel free to **star** them or reach out for a chat!"</em>
+</p>
