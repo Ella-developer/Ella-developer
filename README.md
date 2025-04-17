@@ -122,30 +122,27 @@ I love **clean code, reproducible pipelines**, and collaborating on meaningful A
 ## 🚀 Featured Projects
 
 ### 🧠 Medical AI
-- **[Diabetic Retinopathy Detection (CNN)](https://github.com/Ella-developer/)**  
+- **Diabetic Retinopathy Detection (CNN)**  
   PyTorch-based classification of retinal images for early diabetic detection.
 
-- **[Brain Tumor Classification (F1: 0.97)](https://github.com/Ella-developer/)**  
+- **[Brain Tumor Classification (F1: 0.97)](https://github.com/Ella-developer/Brain-Tumor-Diagnosis)**  
   End-to-end tumor classification using deep learning.
 
-- **[Pneumonia Detection via Transfer Learning](https://github.com/Ella-developer/)**  
+- **Pneumonia Detection via Transfer Learning**  
   Chest X-ray image classification using CNN & TensorFlow.
 
 ### 🛠 Predictive Modeling
-- **[Ticket Cancellation Prediction (XGBoost)](https://github.com/Ella-developer/)**  
+- **[Ticket Cancellation Prediction (XGBoost)](https://github.com/Ella-developer/Prediction-Of-Ticket-Cancellation)**  
   Business-focused model to predict cancellations and reduce penalties.
 
-- **[Bank Marketing Analysis](https://github.com/Ella-developer/)**  
+- **Bank Marketing Analysis**  
   EDA and classification of campaign success using ensemble models.
 
-- **[Diabetes Type 2 Prediction](https://github.com/Ella-developer/)**  
+- **Diabetes Type 2 Prediction**  
   Accurate forecasting with XGBoost & CatBoost.
 
-- **[Diamond Price Prediction](https://github.com/Ella-developer/)**  
-  Regression models to estimate prices based on features.
-
 ### 🕶️ Computer Vision & Detection
-- **[Traffic Sign Detection (YOLOv8)](https://github.com/Ella-developer/)**  
+- **[Traffic Sign Detection (YOLOv8)**  
   Real-time detection of traffic signs with a custom-trained YOLOv8 model.
 
 ---
@@ -154,10 +151,6 @@ I love **clean code, reproducible pipelines**, and collaborating on meaningful A
 
 I'm always open to new ideas, collaborations, and solving tough challenges with AI.  
 Feel free to reach out via:
-
-- 💼 Upwork: *[Insert your Upwork link here]*  
-- ✉️ Email: *[Insert email]*  
-- 🌐 Portfolio: *Coming soon*
 
 ---
 
